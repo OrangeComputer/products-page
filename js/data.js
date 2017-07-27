@@ -28,6 +28,21 @@ var data = {
 var renderData = function() {
   x220 = document.getElementById('x220');
   x220.innerHTML = data.x220.price;
+
+  t420 = document.getElementById('t420');
+  t420.innerHTML = data.t420.price;
+
+  t520 = document.getElementById('t520');
+  t520.innerHTML = data.t520.price;
+
+  x230 = document.getElementById('x230');
+  x230.innerHTML = data.x230.price;
+
+  t430 = document.getElementById('t430');
+  t430.innerHTML = data.t430.price;
+
+  t530 = document.getElementById('t530');
+  t530.innerHTML = data.t530.price;
 }
 
 renderData();
