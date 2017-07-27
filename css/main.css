@@ -91,3 +91,8 @@ body {
     padding-top: 20px;
     height: 10%;
 }
+
+.price h3 span {
+  font-size: 70%;
+  padding-left: 7px;
+}
