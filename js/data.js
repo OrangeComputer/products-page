@@ -1,6 +1,6 @@
 var data = {
   x220: {
-    price: '$305',
+    price: '$295',
     screenSize: '12'
   },
   t420: {
