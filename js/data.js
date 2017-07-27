@@ -8,7 +8,7 @@ var data = {
     screenSize: '14'
   },
   t520: {
-    price: '$345',
+    price: '$365',
     screenSize: '15.6'
   },
   x230: {
